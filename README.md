@@ -33,7 +33,3 @@ Este repositório serve como um laboratório pessoal para experimentar versionam
 O código está em constante mudança e pode conter partes experimentais ou não finalizadas.
 
 ---
-
-## Como executar
-1. Clone o repositório:
-   ```bash
